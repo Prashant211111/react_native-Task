@@ -5,6 +5,8 @@ import LoginScreen from './src/screens/LoginScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import AddProductScreen from './src/screens/AddProductScreen';
 
+
+
 const Stack = createNativeStackNavigator();
 
 const App = () => {
