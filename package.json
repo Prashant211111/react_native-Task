@@ -24,8 +24,8 @@
     "react-native-screens": "^4.11.1",
     "react-native-vector-icons": "^10.2.0",
     "react-scripts": "^5.0.1",
-    "uuid": "^11.1.0",
-    "uuidv4": "^6.2.13"
+    "uuid": "^11.1.0"
+    
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
